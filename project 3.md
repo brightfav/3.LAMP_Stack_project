@@ -9,4 +9,5 @@ done
  checkout
 
  second phase to check
-
+ show this if on main branch
+ 
