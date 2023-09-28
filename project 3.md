@@ -10,3 +10,4 @@ done
 
  second phase to check
 
+show this if on master branch  
